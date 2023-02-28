@@ -1,0 +1,28 @@
+* {
+    background-color: aqua;
+}
+
+.h1,
+.quote,
+#all {
+text-align: center;
+}
+.h1 {
+    font-size: 64px;
+}
+
+.quote {
+    color: red;
+    font-size: x-large;
+}
+
+
+
+.one,
+.two,
+.three, 
+.four {
+    font: verdana;
+    font-size: 60px;
+
+}
