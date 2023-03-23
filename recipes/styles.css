@@ -1,0 +1,31 @@
+#pilau, #title {
+    font: bolder;
+}
+#pilau {
+    font-size: 40px;
+    color: red;
+}
+#title {
+    font-size: 34px;
+    color: black;
+}
+DIV *{
+    background-color:aqua ;
+}
+.Ingredients
+.Directions
+.Directions2 {
+    background-color: aqua;
+    font-style: verdana;
+}
+.Ingredients {
+    color: blue;
+}
+
+.Directions {
+    color: green;
+}
+
+.Directions2 {
+    color: purple;
+}
