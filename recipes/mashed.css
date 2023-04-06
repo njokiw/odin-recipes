@@ -1,0 +1,21 @@
+#body  {
+    background-color: purple;
+}
+#h1,
+#h2,
+#h3 {
+    color: black;
+    font-size: large;
+}
+.one,
+.two {
+    color: red;
+}
+#body {
+    display: flex;
+    border: 10px;
+    margin: auto;
+    padding: 50;
+    text-align: center;
+    display:flexbox;
+}
